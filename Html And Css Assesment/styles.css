@@ -1,0 +1,101 @@
+body{
+    Background: #6cecff;
+}
+div{
+    overflow: hidden;
+}
+
+#container{
+    width:1000px;
+
+}
+#photos{
+    width: 600px;
+    height: 600px;
+    float: right;
+}
+#content{
+    width: 800px;
+    height:600px;
+
+}
+
+#nav{
+    width:350px;
+    height: 600px;
+    float: left;
+
+}
+#pics{
+    width:600px;
+    height:300px;
+    background-color:white;
+    float:right;
+
+}
+#pictures{
+    width:400px;
+    height: 300px;
+
+
+}
+
+#header{
+    width: 1000px;
+    float: top;
+}
+#title{
+    text-align:center;
+}
+#p01{
+    width:50%;
+}
+#p02 {
+    width: 40%;
+
+}
+#pic{
+    width:100%;
+}
+#tcon{
+    text-align:center;
+    font-size: 25px;
+    color: #a8508e
+}
+#pa1{
+    font-family: cursive;
+}
+#pa2{
+    font-family: fantasy;
+}
+#pa3{
+    font-family: inherit;
+}
+
+#h4{
+    color: purple;
+}
+#h42{
+    color:red;
+}
+#h43{
+    color: purple;
+}
+.frank{
+    color: #ff2293;
+}
+.bob{
+    color: #001bff;
+}
+.bill{
+    color: #ff3c0f;
+}
+.robert{
+    color: #a638ff;
+}
+#pff1{
+    width: 60%
+}
+#pff2{
+
+}
